@@ -2,7 +2,7 @@
 
 A fullstack application for browsing, searching, and managing your favorite Pokémon.
 
-🎮 **Live Demo**: [https://pokemon-app.vercel.app/](https://pokemon-app.vercel.app/)  
+🎮 **Live Demo**: [https://pokemon-app.vercel.app/](https://pokemon-app-fawn.vercel.app)  
 🛠️ **Live API**: [https://pokemon-fullstack-app-production.up.railway.app/](https://pokemon-fullstack-app-production.up.railway.app/)
 
 ![Pokémon Manager](https://live.staticflickr.com/65535/54466371262_1ac3f291cb_c.jpg)
